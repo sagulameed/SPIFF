@@ -1,0 +1,90 @@
+body {
+    background: white;
+}
+.carrusel-image{
+    width: 120px; height: 120px; overflow: hidden;
+}
+.purple{
+    color: #9E005C;
+}
+h4{
+    color: grey;
+}
+hr{
+    border-bottom:2px solid #9E005C;
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+small{
+    color: grey;
+}
+thead>tr>td{
+    color: #9E005C;
+    font-size: 14px;
+
+}
+.table>tbody>tr>td{
+    color: grey;
+    /*font-weight: bold;*/
+    font-size: 15px;
+    border-top: none;
+}
+.center-value{
+    text-align: center;
+}
+.sidebar{
+    border-right: 3px solid lightgray;
+}
+.resources{
+    padding-left: 3%;
+}
+.layouts{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.layout-title{
+    padding-top: 6%;
+}
+.canvas-elements{
+    background-color: #f9f8f8;
+}
+.content-included-elements{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.black-text{
+    color: grey;
+}
+.section{
+    margin-top: 2%;
+}
+.paymentButton{
+    background-color: #9E005C;
+    color: white;
+    border-radius: 10px;
+}
+.paymentButton:hover{
+    background-color: white;
+    color: #9E005C;
+}
+.licenseBtn{
+    margin-top: 5px;
+}
+#totalBilling{
+    font-size: 20px;
+}
+#totalElementList{
+    color: #9E005C;
+    font-size: 18px !important;
+}
+#listElements>tr>td{
+    font-size: 13px;
+    padding: 0px;
+}
+#totals>tbody>tr>td{
+    font-size: 13px;
+    padding: 0px;
+}
+#orderPricesRank>tbody>tr>td{
+    padding: 3px;
+}
